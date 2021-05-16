@@ -19,17 +19,6 @@ source .venv/bin/activate (.venv\Scripts\activate for windows)
 pip install -r requirements.txt
 ```
 
-### As package
-
-```bash
-git clone https://github.com/made-ml-in-prod-2021/iseman1993.git
-git checkout homework1
-cd ml_project
-python -m venv .venv
-source .venv/bin/activate (.venv\Scripts\activate for windows)
-pip install -e .
-```
-
 
 ## Project structure
 
