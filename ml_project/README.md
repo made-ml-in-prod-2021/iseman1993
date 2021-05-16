@@ -4,7 +4,7 @@
 
 * Python >= 3.8
 * pip >= 20.1.1
-* [Heart Disease UCI Dataset](https://www.kaggle.com/ronitf/heart-disease-uci) put the dataset in data/raw folder
+* [Heart Disease UCI Dataset](https://www.kaggle.com/ronitf/heart-disease-uci) (put the dataset in data/raw folder)
 
 ## Installation
 
