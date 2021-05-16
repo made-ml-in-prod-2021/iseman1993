@@ -30,20 +30,6 @@ source .venv/bin/activate (.venv\Scripts\activate for windows)
 pip install -e .
 ```
 
-## Usage
-
-
-### Train model
-
-```bash
-python3 src/train_pipeline.py configs/lr_train_config.yaml
-```
-
-### Predict with model
-
-```bash
-python3 src/predict_pipeline.py configs/lr_predict_config.yaml
-```
 
 ## Project structure
 
@@ -98,6 +84,25 @@ python3 src/predict_pipeline.py configs/lr_predict_config.yaml
     ├── train_pipeline.py              <- Train script.
     │
     └── predict_pipeline.py            <- Predict script.
+
+
+
+
+## Usage
+
+
+### Train model
+
+```bash
+python3 src/train_pipeline.py configs/lr_train_config.yaml
+```
+
+### Predict with model
+
+```bash
+python3 src/predict_pipeline.py configs/lr_predict_config.yaml
+```
+
 
 
 ------------
