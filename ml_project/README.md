@@ -1,6 +1,6 @@
 
 
-## запус <br>
+## Запустить <br>
 docker-compose up --build
 <br><br>
 
